@@ -1,0 +1,4 @@
+baseURL = 'https://blog.syamilthoughts.com/'
+languageCode = 'en-us'
+title = 'Welcome to Syamil's blog'
+theme = 'ananke'
